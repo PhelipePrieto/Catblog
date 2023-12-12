@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+
+  --blue-header-footer: hsl(195, 46%, 40%);
+
+  font-family: "Mulish", sans-serif;
+}
+
+html,
+body,
+input {
+  font-family: "Mulish", sans-serif;
+}
